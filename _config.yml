@@ -122,7 +122,6 @@ menu:
   #about: /about/
   archives: /archives/
   tags: /tags/
-  search: /_includes/_partials/search.html
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
