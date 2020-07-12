@@ -122,7 +122,7 @@ menu:
   #about: /about/
   archives: /archives/
   tags: /tags/
-  search: 搜索
+  search: /_includes/_partials/search.html
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
