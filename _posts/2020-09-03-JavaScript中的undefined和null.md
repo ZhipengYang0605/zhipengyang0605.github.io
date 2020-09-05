@@ -1,5 +1,6 @@
 ---
 title: JavaScript中的undefined和null
+description: 这两个在项目中经常会遇到， 而且很容易搞混淆， 这里记录一下~
 date: 2020-09-03 20:59:30
 categories:
 - JS
@@ -64,6 +65,7 @@ console.log ( undefined === null );//false    它们的值一样但是数据类�
 戳这里查看
 
 参考资料：
+
 [JS 应用篇(一)：Underfined与Null的区别](https://blog.csdn.net/madman0621/article/details/82932641)
 
 [js中的undefined和null](https://www.cnblogs.com/zhuangwf/p/11124079.html "js中的undefined和null")
