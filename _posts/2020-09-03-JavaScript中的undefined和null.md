@@ -62,7 +62,8 @@ console.log ( undefined === null );//false    它们的值一样但是数据类�
 
 4. 由以上可知，简单的typeof并不能判断出null，那可以使用什么方式来判断呢？
 看了这篇Blog你应该会有答案~
-戳这里查看
+
+[戳这里查看](https://zhipengyang0605.github.io/js/2020/09/04/JavaScript%E4%B8%AD%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E7%B1%BB%E5%9E%8B/)
 
 参考资料：
 
