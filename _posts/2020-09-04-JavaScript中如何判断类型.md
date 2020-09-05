@@ -1,5 +1,5 @@
 ---
-title: 2020-09-04-js判断变量类型
+title: JavaScript中如何判断类型.md
 description： 总结了JS中常用的五种判断类型的方法， 顺带记录了ES6中几种判断类型的方法！
 date: 2020-09-04 20:59:30
 categories:
