@@ -1,8 +1,8 @@
 ---
-title: null、undefined、{}、[]、0、false、NaN对比我蒙了
+title: null/undefined/{}/[]/0/false/NaN对比我蒙了
 description: 每次遇到这种的变态对比真的是蒙了，不过这是最基础的东西，如果这些没有答好很容易在面试过程中翻车......
 今天就来剖析下其中的原理，来个举一反三~
-date: 2020-09-20 20:59:30
+date: 202-09-20 20:59:30
 categories:
 - JS
 
